@@ -6,8 +6,6 @@ on:
       - main
     types:
       - closed
-      - synchronize
-      - labeled
 
 concurrency:
   group: ${{ github.workflow }}-${{ github.ref }}
