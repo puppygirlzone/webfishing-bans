@@ -1,3 +1,4 @@
+<a href='https://www.steamidfinder.com/lookup/76561199032522604/'><img src='https://www.steamidfinder.com/signature/76561199032522604.png'></a>
 <a href='https://www.steamidfinder.com/lookup/76561197965490598/'><img src='https://www.steamidfinder.com/signature/76561197965490598.png'></a>
 <a href='https://www.steamidfinder.com/lookup/76561197977747468/'><img src='https://www.steamidfinder.com/signature/76561197977747468.png'></a>
 <a href='https://www.steamidfinder.com/lookup/76561197988619714/'><img src='https://www.steamidfinder.com/signature/76561197988619714.png'></a>
@@ -33,7 +34,6 @@
 <a href='https://www.steamidfinder.com/lookup/76561198057945370/'><img src='https://www.steamidfinder.com/signature/76561198057945370.png'></a>
 <a href='https://www.steamidfinder.com/lookup/76561198060795144/'><img src='https://www.steamidfinder.com/signature/76561198060795144.png'></a>
 <a href='https://www.steamidfinder.com/lookup/76561198067902163/'><img src='https://www.steamidfinder.com/signature/76561198067902163.png'></a>
-<a href='https://www.steamidfinder.com/lookup/76561198068059056/'><img src='https://www.steamidfinder.com/signature/76561198068059056.png'></a>
 <a href='https://www.steamidfinder.com/lookup/76561198068983903/'><img src='https://www.steamidfinder.com/signature/76561198068983903.png'></a>
 <a href='https://www.steamidfinder.com/lookup/76561198069140912/'><img src='https://www.steamidfinder.com/signature/76561198069140912.png'></a>
 <a href='https://www.steamidfinder.com/lookup/76561198069600171/'><img src='https://www.steamidfinder.com/signature/76561198069600171.png'></a>
@@ -379,3 +379,4 @@
 <a href='https://www.steamidfinder.com/lookup/76561199804464452/'><img src='https://www.steamidfinder.com/signature/76561199804464452.png'></a>
 <a href='https://www.steamidfinder.com/lookup/76561199803516629/'><img src='https://www.steamidfinder.com/signature/76561199803516629.png'></a>
 <a href='https://www.steamidfinder.com/lookup/76561198068059056/'><img src='https://www.steamidfinder.com/signature/76561198068059056.png'></a>
+<a href='https://www.steamidfinder.com/lookup/76561199805766631/'><img src='https://www.steamidfinder.com/signature/76561199805766631.png'></a>
