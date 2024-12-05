@@ -37,7 +37,7 @@ jobs:
         with:
           commit_message: Automated WOS update
           skip_checkout: true
-          file_pattern: 'docs/shame.html *.md'
+          file_pattern: 'build/shame.html *.md'
           commit_user_name: WOS Updater!
       # Push Changes
       - name: Push Changes
