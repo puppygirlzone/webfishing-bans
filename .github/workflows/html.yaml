@@ -14,9 +14,6 @@ jobs:
       contents: write
       pull-requests: write
     steps:
-      # Checkout the Code
-      - name: Checkout Code
-        uses: actions/checkout@v4
       # Set up Python
       - uses: actions/setup-python@v4
         with:
@@ -36,9 +33,9 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v5.0.1
         with:
           commit_message: Automated WOS update
-          skip_checkout: true
           file_pattern: 'build/shame.html *.md'
           commit_user_name: WOS Updater!
+          push_options: '--force'
       # Push Changes
       - name: Push Changes
         uses: ad-m/github-push-action@v0.8.0
