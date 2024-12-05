@@ -10,15 +10,18 @@ And ya done! Easy as that.
 If you have someone you think should be added to this list. You can:
 - Make a pull request with the changes and any evidence you can provide
 or
-- DM me personally on discord (puppygirl.zone) with the steam profile link and evidence to be added by me.
+- Create an issue with the offender's SteamID and reason you'd like them added.
 ## Getting someone removed
 If you think someone was added to this list mistakenly or caught in a blanket ban. You can:
 - Make a pull request with the changes and any evidence you can provide
 or
-- DM me personally on discord (puppygirl.zone) with the steam profile link and evidence to be removed by me.
+- Create an issue with the person's SteamID and any evidence they should be removed.
+## Changes
+> [!WARNING]
+> I will no longer be accepting discord friend requests or DMs thanks to the members of Grincher's Fanclub going out of their way to either annoy me or plain argue with me.
 # DISCLAIMER
 Providing this list does not mean in any way that I condone any form of witch hunt, trolling or any action other than adding them to your ban list. The wall of shame is merely to see their profile pictures and names for easier finding.
-# DO NOT HUNT THESE PEOPLE DOWN
+## DO NOT HUNT THESE PEOPLE DOWN
 Stooping down to their level makes us no better than them. We as a community don't want to become the very thing that plagues our lobbies. Stay fair, nice and just report them here. No need for anything more.
 # Support me
 I don't really need it but someone told me it's a good idea so screw it we ball.
