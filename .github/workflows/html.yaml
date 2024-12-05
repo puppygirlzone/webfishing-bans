@@ -35,13 +35,13 @@ jobs:
       - name: Commit Changes
         uses: stefanzweifel/git-auto-commit-action@v5.0.1
         with:
-          commit_message: Automated shame.html update
+          commit_message: Automated WOS update
           skip_checkout: true
-          file_pattern: 'docs/shame.html'
-          commit_user_name: HTML Updater!
+          file_pattern: 'docs/shame.html *.md'
+          commit_user_name: WOS Updater!
       # Push Changes
       - name: Push Changes
         uses: ad-m/github-push-action@v0.8.0
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: auto/html
+          branch: main
