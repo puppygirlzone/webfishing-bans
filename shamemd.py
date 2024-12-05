@@ -17,8 +17,6 @@ if __name__ == "__main__":
         raw = json.load(f)
         ban_list = raw["banlist"].split(", ")
 
-    # TODO - Change this so it has some actual CSS and other content. Maybe use jinja?
-    # ! Currently outputting to an MD while I figure out a nice css and html layout. Something something probably a branch.
     with Path("wall-of-shame.md").open("w") as f:
         payload = gen_payload(ban_list)
         f.write(payload)
