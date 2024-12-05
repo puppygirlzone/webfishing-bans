@@ -39,3 +39,4 @@ jobs:
           file_pattern: 'build/shame.html *.md'
           commit_user_name: WOS Updater!
           push_options: '--force'
+          branch: main
