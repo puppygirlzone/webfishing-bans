@@ -18,7 +18,6 @@ if __name__ == "__main__":
         ban_list = raw["banlist"].split(", ")
 
     # TODO - Change this so it has some actual CSS and other content. Maybe use jinja?
-    # ! Currently outputting to an MD while I figure out a nice css and html layout. Something something probably a branch.
     with Path("build/shame.html").open("w") as f:
         payload = gen_payload(ban_list)
         f.write(payload)
