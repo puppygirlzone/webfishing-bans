@@ -7,15 +7,25 @@ With the rise in trolls going server to server. I made this list of IDs that I'v
 And ya done! Easy as that.
 # Contributing
 ## Getting someone added
-If you have someone you think should be added to this list. You can:
-- Make a pull request with the changes and any evidence you can provide
-or
-- Create an issue with the offender's SteamID and reason you'd like them added.
+If you're wanting someone added to the list. You can do either of the following:
+- Make a pull request with your SteamID, reason for being added and any proof you're willing to provide
+- Contact unmatchedlunacy on discord with your SteamID and go through the unban process that way
 ## Getting someone removed
-If you think someone was added to this list mistakenly or caught in a blanket ban. You can:
-- Make a pull request with the changes and any evidence you can provide
-or
-- Create an issue with the person's SteamID and any evidence they should be removed.
+If you're wanting to have someone removed from the list. You can do either of the following:
+- Make a pull request with your SteamID, an apology and proof you're no longer associated with any offenders on the list. 
+- Contact unmatchedlunacy on discord with your SteamID and go through the unban process that way
+> [!WARNING]
+> UnmatchedLunacy will not deal with trolls. Nor will I personally. If you're genuine and not trying to screw either of us around then you will be treated with respect and removed ASAP.
+<!--## Getting someone added-->
+<!--If you have someone you think should be added to this list. You can:-->
+<!--- Make a pull request with the changes and any evidence you can provide-->
+<!--or-->
+<!--- Create an issue with the offender's SteamID and reason you'd like them added.-->
+<!--## Getting someone removed-->
+<!--If you think someone was added to this list mistakenly or caught in a blanket ban. You can:-->
+<!--- Make a pull request with the changes and any evidence you can provide-->
+<!--or-->
+<!--- Create an issue with the person's SteamID and any evidence they should be removed.-->
 ## Changes
 > [!WARNING]
 > I will no longer be accepting discord friend requests or DMs thanks to the members of Grincher's Fanclub going out of their way to either annoy me or plain argue with me.
