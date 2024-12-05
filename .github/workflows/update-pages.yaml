@@ -1,9 +1,0 @@
-name: Update Github pages
-# TODO - Change to pushes to main, just for PR
-on: [pull_request, push]
-jobs:
-    update-pages:
-        runs-on: ubuntu
-        steps:
-        -   name: Update GitHub pages
-            uses: ./.github/actions/update-pages

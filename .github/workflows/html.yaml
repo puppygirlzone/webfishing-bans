@@ -1,0 +1,43 @@
+name: Create HTML
+
+on:
+  pull_request_target:
+    branches:
+      - main
+    types:
+      - closed
+
+jobs:
+  create-html:
+    runs-on: ubuntu-24.04
+    permissions:
+      contents: write
+      pull-requests: write
+    steps:
+      # Checkout the Code
+      - name: Checkout Code
+        uses: actions/checkout@v4
+      # Set up Python
+      - uses: actions/setup-python@v4
+        with:
+          python-version: '3.12'
+          cache: 'pip'
+      - name: Sync Banlist
+        shell: bash
+        run: |-
+            python html.py
+            cat build/shame.html
+      # Commit Changes
+      - name: Commit Changes
+        uses: stefanzweifel/git-auto-commit-action@v5.0.1
+        with:
+          commit_message: Automated shame.html update
+          skip_checkout: true
+          file_pattern: 'docs/shame.html'
+          commit_user_name: HTML Updater!
+      # Push Changes
+      - name: Push Changes
+        uses: ad-m/github-push-action@v0.8.0
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: auto/html
