@@ -14,6 +14,9 @@ jobs:
       contents: write
       pull-requests: write
     steps:
+      # Checkout the Code
+      - name: Checkout Code
+        uses: actions/checkout@v4
       # Set up Python
       - uses: actions/setup-python@v4
         with:
@@ -36,9 +39,3 @@ jobs:
           file_pattern: 'build/shame.html *.md'
           commit_user_name: WOS Updater!
           push_options: '--force'
-      # Push Changes
-      - name: Push Changes
-        uses: ad-m/github-push-action@v0.8.0
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: main
