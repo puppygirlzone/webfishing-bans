@@ -6,7 +6,6 @@
 <a href='https://www.steamidfinder.com/lookup/76561198002149202/'><img src='https://www.steamidfinder.com/signature/76561198002149202.png'></a>
 <a href='https://www.steamidfinder.com/lookup/76561198009303715/'><img src='https://www.steamidfinder.com/signature/76561198009303715.png'></a>
 <a href='https://www.steamidfinder.com/lookup/76561198011181923/'><img src='https://www.steamidfinder.com/signature/76561198011181923.png'></a>
-<a href='https://www.steamidfinder.com/lookup/76561198011333718/'><img src='https://www.steamidfinder.com/signature/76561198011333718.png'></a>
 <a href='https://www.steamidfinder.com/lookup/76561198012050762/'><img src='https://www.steamidfinder.com/signature/76561198012050762.png'></a>
 <a href='https://www.steamidfinder.com/lookup/76561198013931327/'><img src='https://www.steamidfinder.com/signature/76561198013931327.png'></a>
 <a href='https://www.steamidfinder.com/lookup/76561198018300565/'><img src='https://www.steamidfinder.com/signature/76561198018300565.png'></a>
