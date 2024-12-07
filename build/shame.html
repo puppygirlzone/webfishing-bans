@@ -222,7 +222,6 @@
 <a href='https://www.steamidfinder.com/lookup/76561198954835749/'><img src='https://www.steamidfinder.com/signature/76561198954835749.png'></a>
 <a href='https://www.steamidfinder.com/lookup/76561198960253649/'><img src='https://www.steamidfinder.com/signature/76561198960253649.png'></a>
 <a href='https://www.steamidfinder.com/lookup/76561198964125420/'><img src='https://www.steamidfinder.com/signature/76561198964125420.png'></a>
-<a href='https://www.steamidfinder.com/lookup/76561198964140399/'><img src='https://www.steamidfinder.com/signature/76561198964140399.png'></a>
 <a href='https://www.steamidfinder.com/lookup/76561198964536938/'><img src='https://www.steamidfinder.com/signature/76561198964536938.png'></a>
 <a href='https://www.steamidfinder.com/lookup/76561198966413881/'><img src='https://www.steamidfinder.com/signature/76561198966413881.png'></a>
 <a href='https://www.steamidfinder.com/lookup/76561198974316043/'><img src='https://www.steamidfinder.com/signature/76561198974316043.png'></a>
@@ -269,7 +268,6 @@
 <a href='https://www.steamidfinder.com/lookup/76561199070487400/'><img src='https://www.steamidfinder.com/signature/76561199070487400.png'></a>
 <a href='https://www.steamidfinder.com/lookup/76561199073357997/'><img src='https://www.steamidfinder.com/signature/76561199073357997.png'></a>
 <a href='https://www.steamidfinder.com/lookup/76561199074954996/'><img src='https://www.steamidfinder.com/signature/76561199074954996.png'></a>
-<a href='https://www.steamidfinder.com/lookup/76561199078470050/'><img src='https://www.steamidfinder.com/signature/76561199078470050.png'></a>
 <a href='https://www.steamidfinder.com/lookup/76561199079783062/'><img src='https://www.steamidfinder.com/signature/76561199079783062.png'></a>
 <a href='https://www.steamidfinder.com/lookup/76561199079954306/'><img src='https://www.steamidfinder.com/signature/76561199079954306.png'></a>
 <a href='https://www.steamidfinder.com/lookup/76561199082298370/'><img src='https://www.steamidfinder.com/signature/76561199082298370.png'></a>
@@ -311,7 +309,6 @@
 <a href='https://www.steamidfinder.com/lookup/76561199162569228/'><img src='https://www.steamidfinder.com/signature/76561199162569228.png'></a>
 <a href='https://www.steamidfinder.com/lookup/76561199165850787/'><img src='https://www.steamidfinder.com/signature/76561199165850787.png'></a>
 <a href='https://www.steamidfinder.com/lookup/76561199167241583/'><img src='https://www.steamidfinder.com/signature/76561199167241583.png'></a>
-<a href='https://www.steamidfinder.com/lookup/76561199168249782/'><img src='https://www.steamidfinder.com/signature/76561199168249782.png'></a>
 <a href='https://www.steamidfinder.com/lookup/76561199168669349/'><img src='https://www.steamidfinder.com/signature/76561199168669349.png'></a>
 <a href='https://www.steamidfinder.com/lookup/76561199172315523/'><img src='https://www.steamidfinder.com/signature/76561199172315523.png'></a>
 <a href='https://www.steamidfinder.com/lookup/76561199172854668/'><img src='https://www.steamidfinder.com/signature/76561199172854668.png'></a>
@@ -387,3 +384,5 @@
 <a href='https://www.steamidfinder.com/lookup/76561198057221376/'><img src='https://www.steamidfinder.com/signature/76561198057221376.png'></a>
 <a href='https://www.steamidfinder.com/lookup/76561198955816367/'><img src='https://www.steamidfinder.com/signature/76561198955816367.png'></a>
 <a href='https://www.steamidfinder.com/lookup/76561198079974374/'><img src='https://www.steamidfinder.com/signature/76561198079974374.png'></a>
+<a href='https://www.steamidfinder.com/lookup/76561199802241667/'><img src='https://www.steamidfinder.com/signature/76561199802241667.png'></a>
+<a href='https://www.steamidfinder.com/lookup/76561199168249782/'><img src='https://www.steamidfinder.com/signature/76561199168249782.png'></a>
