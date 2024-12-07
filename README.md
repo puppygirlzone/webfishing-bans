@@ -8,12 +8,12 @@ And ya done! Easy as that.
 # Contributing
 ## Getting someone added
 If you're wanting someone added to the list. You can do either of the following:
-- Make a pull request with your SteamID, reason for being added and any proof you're willing to provide
-- Contact unmatchedlunacy on discord with your SteamID and go through the unban process that way
+- Make a pull request with your SteamID/Profile Link, reason for being added and any proof you're willing to provide
+- Contact `UnmatchedLunacy` on discord with the offender's SteamID/Profile Link and go through the ban process that way
 ## Getting someone removed
 If you're wanting to have someone removed from the list. You can do either of the following:
-- Make a pull request with your SteamID, an apology and proof you're no longer associated with any offenders on the list. 
-- Contact unmatchedlunacy on discord with your SteamID and go through the unban process that way
+- Make a pull request or issue with your SteamID/Profile Link, an apology and proof you're no longer associated with any offenders on the list. 
+- Contact `UnmatchedLunacy` on discord with your SteamID/Profile Link and go through the unban process that way
 > [!WARNING]
 > UnmatchedLunacy will not deal with trolls. Nor will I personally. If you're genuine and not trying to screw either of us around then you will be treated with respect and removed ASAP.
 <!--## Getting someone added-->
