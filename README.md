@@ -19,12 +19,12 @@ If you're wanting to have someone removed from the list. You can do either of th
 ## Changes
 > [!WARNING]
 > Puppygirl will no longer be accepting discord friend requests or DMs thanks to the members of Grincher's Fanclub going out of their way to create arguments and troll.
+# FAQ
+If you have any questions then please read [faq file](docs/faq.md) to see if your question is answered there.
 # DISCLAIMER
 Providing this list does not mean in any way that myself, contributors or collaborators condone any form of witch hunt, trolling or any action other than adding them to your ban list. The wall of shame is merely to see their profile pictures and names for easier finding.
 ## DO NOT HUNT THESE PEOPLE DOWN
 Stooping down to their level makes us no better than them. We as a community don't want to become the very thing that plagues our lobbies. Stay fair, nice and just report them here. No need for anything more.
-## FAQ
-If you have any questions then please read [faq file](docs/faq.md) to see if your question is answered there.
 # Support me
 I don't really need it but someone told me it's a good idea so screw it we ball.
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A816Q88B)
