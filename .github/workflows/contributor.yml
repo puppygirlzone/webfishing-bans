@@ -1,16 +1,21 @@
-on:  
-  push:
-    branches:
-        - main
+name: Contributor-List
+
+on:
   pull_request_target:
     branches:
       - main
     types:
       - closed
+  push:
+    branches:
+      - main
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
 
 jobs:
-  contrib-readme-job:
-    runs-on: ubuntu-24.04
+  contrib-readme:
+    runs-on: ubuntu-latest
     name: A job to automate contrib in readme
     permissions:
       contents: write
