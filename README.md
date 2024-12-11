@@ -30,4 +30,38 @@ Various members of this list have gone out of their way to create this crashing 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A816Q88B)
 # contributors
 <!-- readme: collaborators,contributors -start -->
+<table>
+	<tbody>
+		<tr>
+            <td align="center">
+                <a href="https://github.com/Myraaleth">
+                    <img src="https://avatars.githubusercontent.com/u/95660369?v=4" width="100;" alt="Myraaleth"/>
+                    <br />
+                    <sub><b>Myraaleth</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/puppygirlzone">
+                    <img src="https://avatars.githubusercontent.com/u/153831898?v=4" width="100;" alt="puppygirlzone"/>
+                    <br />
+                    <sub><b>Ahlo</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/UnmatchedLunacy">
+                    <img src="https://avatars.githubusercontent.com/u/159663966?v=4" width="100;" alt="UnmatchedLunacy"/>
+                    <br />
+                    <sub><b>UnmatchedLunacy</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/Twalaght">
+                    <img src="https://avatars.githubusercontent.com/u/52785900?v=4" width="100;" alt="Twalaght"/>
+                    <br />
+                    <sub><b>Twalaght</b></sub>
+                </a>
+            </td>
+		</tr>
+	<tbody>
+</table>
 <!-- readme: collaborators,contributors -end -->
