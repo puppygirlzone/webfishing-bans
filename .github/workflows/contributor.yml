@@ -1,0 +1,22 @@
+on:  
+  push:
+    branches:
+        - main
+  pull_request_target:
+    branches:
+      - main
+    types:
+      - closed
+
+jobs:
+  contrib-readme-job:
+    runs-on: ubuntu-24.04
+    name: A job to automate contrib in readme
+    permissions:
+      contents: write
+      pull-requests: write
+    steps:
+        - name: Contribute List
+          uses: akhilmhdh/contributors-readme-action@v2.3.10
+            env:
+              GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
