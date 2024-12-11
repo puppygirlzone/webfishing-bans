@@ -388,3 +388,4 @@
 <a href='https://www.steamidfinder.com/lookup/76561199807575343/'><img src='https://www.steamidfinder.com/signature/76561199807575343.png'></a>
 <a href='https://www.steamidfinder.com/lookup/76561199807263177/'><img src='https://www.steamidfinder.com/signature/76561199807263177.png'></a>
 <a href='https://www.steamidfinder.com/lookup/76561199806806969/'><img src='https://www.steamidfinder.com/signature/76561199806806969.png'></a>
+<a href='https://www.steamidfinder.com/lookup/76561199805669685/'><img src='https://www.steamidfinder.com/signature/76561199805669685.png'></a>
