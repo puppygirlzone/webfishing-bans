@@ -60,6 +60,13 @@ Don't go out of your way to hunt people on this list down. A good portion of thi
                     <sub><b>Twalaght</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/backwardspy">
+                    <img src="https://avatars.githubusercontent.com/u/289746?v=4" width="100;" alt="backwardspy"/>
+                    <br />
+                    <sub><b>backwardspy</b></sub>
+                </a>
+            </td>
 		</tr>
 	<tbody>
 </table>
