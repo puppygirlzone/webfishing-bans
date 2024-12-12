@@ -22,10 +22,9 @@ If you're wanting to have someone removed from the list. You can do either of th
 # FAQ
 If you have any questions then please read [faq file](docs/faq.md) to see if your question is answered there.
 # DISCLAIMER
-<!--Providing this list does not mean in any way that myself, contributors or collaborators condone any form of witch hunt, trolling or any action other than adding them to your ban list. The wall of shame is merely to see their profile pictures and names for easier finding.-->
 The creator of this list (puppygirl.zone) and any contributors who have added to this list are in no means responsible for what you do with this list. We don't condone illegal actions. Any illegal actions stemming from the use of this list does not make neither creator nor contributor liable for any actions done.
 ## DO NOT HUNT THESE PEOPLE DOWN
-Various members of this list have gone out of their way to create this crashing service in order to keep us from playing the game. I no longer care what you do. I no longer care about being nice. Read the disclaimer about using this list.
+Don't go out of your way to hunt people on this list down. A good portion of this list is innocent but haven't asked to be removed. A few bad eggs who want to ruin our community and crash our lobbies shouldn't mean you bare virtual arms in order to combat them. Do not stoop down to their level. It's not worth it.
 # Support me
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A816Q88B)
 # contributors
