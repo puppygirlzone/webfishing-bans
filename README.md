@@ -6,16 +6,7 @@ With the rise in trolls going server to server. I made this list of IDs that I'v
 3. Load the game and know they will all be permabanned
 And ya done! Easy as that.
 # Contributing
-## Getting someone added
-If you're wanting someone added to the list. You can do either of the following:
-- Make a pull request or issue with your SteamID/Profile Link, reason for being added and any proof you're willing to provide
-<!--- Contact `UnmatchedLunacy` on discord with the offender's SteamID/Profile Link and go through the ban process that way-->
-- Contact either `puppygirl.zone` or `unmatchedlunacy` on discord to have them added.
-## Getting someone removed
-If you're wanting to have someone removed from the list. You can do either of the following:
-- Make a pull request or issue with your SteamID/Profile Link, an apology and proof you're no longer associated with any offenders on the list. 
-<!--- Contact `UnmatchedLunacy` on discord with your SteamID/Profile Link and go through the unban process that way-->
-- Contact either `puppygirl.zone` or `unmatchedlunacy` on discord to have them added.
+We've made a very special discord just for this project. I love you all but my friends list can only take so much. [Join here](https://discord.gg/fEtGychNbd) and use the new ticketing system. This will also be where the updates are now announced.  
 ## Changes
 > [!IMPORTANT]
 > Due to the creation of the [Webfish Airlines Botting Service](https://i.imgur.com/cy7MQlv.png). Puppy has opened her friends list back up in order to help counter this. 
@@ -26,6 +17,7 @@ The creator of this list (puppygirl.zone) and any contributors who have added to
 ## DO NOT HUNT THESE PEOPLE DOWN
 Don't go out of your way to hunt people on this list down. A good portion of this list is innocent but haven't asked to be removed. A few bad eggs who want to ruin our community and crash our lobbies shouldn't mean you bare virtual arms in order to combat them. Do not stoop down to their level. It's not worth it.
 # Support me
+I'm not begging, asking nor requiring payment. This is for those who have money they can spare and wish to support me. I know I make a glorified txt file. 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A816Q88B)
 # contributors
 <!-- readme: collaborators,contributors -start -->
