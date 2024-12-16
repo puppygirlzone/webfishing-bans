@@ -1,4 +1,3 @@
-<a href='https://www.steamidfinder.com/lookup/76561199353296118/'><img src='https://www.steamidfinder.com/signature/76561199353296118.png'></a>
 <a href='https://www.steamidfinder.com/lookup/76561198252757796/'><img src='https://www.steamidfinder.com/signature/76561198252757796.png'></a>
 <a href='https://www.steamidfinder.com/lookup/76561199277220352/'><img src='https://www.steamidfinder.com/signature/76561199277220352.png'></a>
 <a href='https://www.steamidfinder.com/lookup/76561198291480437/'><img src='https://www.steamidfinder.com/signature/76561198291480437.png'></a>
