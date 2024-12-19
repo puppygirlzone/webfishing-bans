@@ -26,35 +26,35 @@ I'm not begging, asking nor requiring payment. This is for those who have money 
 		<tr>
             <td align="center">
                 <a href="https://github.com/Myraaleth">
-                    <img src="https://avatars.githubusercontent.com/u/95660369?v=4" width="100;" alt="Myraaleth"/>
+                    <img src="https://private-avatars.githubusercontent.com/u/95660369?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MDY0ODAsIm5iZiI6MTczNDYwNTI4MCwicGF0aCI6Ii91Lzk1NjYwMzY5In0.iDmqlK6wvUnstQ6GeLdhdd-JrSSsMyoJK_oe1EK3CdU&v=4" width="100;" alt="Myraaleth"/>
                     <br />
                     <sub><b>Myraaleth</b></sub>
                 </a>
             </td>
             <td align="center">
                 <a href="https://github.com/puppygirlzone">
-                    <img src="https://avatars.githubusercontent.com/u/153831898?v=4" width="100;" alt="puppygirlzone"/>
+                    <img src="https://private-avatars.githubusercontent.com/u/153831898?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MDY0MjAsIm5iZiI6MTczNDYwNTIyMCwicGF0aCI6Ii91LzE1MzgzMTg5OCJ9.vxj8Gck9_w-Ib0O1D-dz5W6RJWsvHdsJYgxnva6m8eE&v=4" width="100;" alt="puppygirlzone"/>
                     <br />
                     <sub><b>Ahlo</b></sub>
                 </a>
             </td>
             <td align="center">
                 <a href="https://github.com/UnmatchedLunacy">
-                    <img src="https://avatars.githubusercontent.com/u/159663966?v=4" width="100;" alt="UnmatchedLunacy"/>
+                    <img src="https://private-avatars.githubusercontent.com/u/159663966?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MDcyMDAsIm5iZiI6MTczNDYwNjAwMCwicGF0aCI6Ii91LzE1OTY2Mzk2NiJ9.ShVrY0i9UUm1L41eowGTnTeLz1XMWgRfKOmsnnenua8&v=4" width="100;" alt="UnmatchedLunacy"/>
                     <br />
                     <sub><b>UnmatchedLunacy</b></sub>
                 </a>
             </td>
             <td align="center">
                 <a href="https://github.com/Twalaght">
-                    <img src="https://avatars.githubusercontent.com/u/52785900?v=4" width="100;" alt="Twalaght"/>
+                    <img src="https://private-avatars.githubusercontent.com/u/52785900?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MDY3ODAsIm5iZiI6MTczNDYwNTU4MCwicGF0aCI6Ii91LzUyNzg1OTAwIn0.dLcuY4latNoazZSmSuPmIr4GoIxiglWOBZ4hwUmI2ew&v=4" width="100;" alt="Twalaght"/>
                     <br />
                     <sub><b>Twalaght</b></sub>
                 </a>
             </td>
             <td align="center">
                 <a href="https://github.com/backwardspy">
-                    <img src="https://avatars.githubusercontent.com/u/289746?v=4" width="100;" alt="backwardspy"/>
+                    <img src="https://private-avatars.githubusercontent.com/u/289746?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MDY3ODAsIm5iZiI6MTczNDYwNTU4MCwicGF0aCI6Ii91LzI4OTc0NiJ9.sQwvIUvJ1Sra65RcpUTF2Ugv2MtdIskQdzfkAU5Q4MU&v=4" width="100;" alt="backwardspy"/>
                     <br />
                     <sub><b>backwardspy</b></sub>
                 </a>
