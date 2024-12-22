@@ -1,0 +1,15 @@
+{% extends "base.html" %}
+
+{% block title %}
+Shame!
+{% endblock %}
+
+{% block content %}
+<div id="shame-container">
+    {% for steam_id in ban_list %}
+        <div class="ban-entry">
+            <a href="{{'https://www.steamidfinder.com/lookup/' ~ steam_id}}"><img src="{{'https://www.steamidfinder.com/signature/' ~ steam_id ~ '_png'}}"></a>
+        </div>
+    {% endfor %}
+</div>
+{% endblock %}
