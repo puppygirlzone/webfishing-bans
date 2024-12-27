@@ -7,6 +7,8 @@ With the rise in trolls going server to server. I made this list of IDs that I'v
 And ya done! Easy as that.
 # Contributing
 If you're looking to get on the front lines and join the list moderators. Check out [this](docs/contributing.md) and learn more there!
+
+If you just want to be removed or report someone. Join the [discord](https://discord.gg/fEtGychNbd)
 # Being careful out there
 > [!CAUTION]
 > With Grincher [releasing his tools](docs/tools-release.md). This list will most likely start being updated over and over again. Please be on the lookout for updates. Join the [discord](https://discord.gg/fEtGychNbd) to get pinged when the list is updated.
