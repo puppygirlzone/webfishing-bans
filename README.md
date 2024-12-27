@@ -6,10 +6,10 @@ With the rise in trolls going server to server. I made this list of IDs that I'v
 3. Load the game and know they will all be permabanned
 And ya done! Easy as that.
 # Contributing
-We've made a very special discord just for this project. I love you all but my friends list can only take so much. [Join here](https://discord.gg/fEtGychNbd) and use the new ticketing system. This will also be where the updates are now announced.  
-## Changes
-> [!IMPORTANT]
-> Due to the creation of the [Webfish Airlines Botting Service](https://i.imgur.com/cy7MQlv.png). Puppy has opened her friends list back up in order to help counter this. 
+If you're looking to get on the front lines and join the list moderators. Check out [this](docs/contributing.md) and learn more there!
+# Being careful out there
+> [!CAUTION]
+> With Grincher [releasing his tools](docs/tools-release.md). This list will most likely start being updated over and over again. Please be on the lookout for updates. Join the [discord](https://discord.gg/fEtGychNbd) to get pinged when the list is updated.
 # FAQ
 If you have any questions then please read [faq file](docs/faq.md) to see if your question is answered there.
 # DISCLAIMER
