@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> Thanks to Webfishing's new [update](https://store.steampowered.com/news/app/3146520/view/506189732191930301?l=english). This repo is no longer really needed. The new tools make the game a much safer place and make lists like this, obsolete. I enjoyed maintaining this list even through the stress that sometimes occured and all the reports along the way. I will be keeping this repo up in case it is ever needed again but until that time. I won't really be touching this project. I want to thank [Myraaleth](https://github.com/Myraaleth), [UnmatchedLunacy](https://github.com/UnmatchedLunacy) and   [Twalaght](https://github.com/Twalaght) for all the help and hard work they've done on this repo. I also want to thank anyone who contributed to the repo whether one time or many times. Thank you all for your hard work! Hopefully this list will never be needed again! 
+
 # Webfishing Ban List
 With the rise in trolls going server to server. I made this list of IDs that I've personally banned due to various reasons listed below. If you wish to ban them then here's the steps.
 # How to use
@@ -10,8 +13,7 @@ If you're looking to get on the front lines and join the list moderators. Check 
 
 If you just want to be removed or report someone. Join the [discord](https://discord.gg/fEtGychNbd)
 # Being careful out there
-> [!CAUTION]
-> With Grincher [releasing his tools](docs/tools-release.md). This list will most likely start being updated over and over again. Please be on the lookout for updates. Join the [discord](https://discord.gg/fEtGychNbd) to get pinged when the list is updated.
+With Grincher [releasing his tools](docs/tools-release.md). This list will most likely start being updated over and over again. Please be on the lookout for updates. Join the [discord](https://discord.gg/fEtGychNbd) to get pinged when the list is updated.
 # FAQ
 If you have any questions then please read [faq file](docs/faq.md) to see if your question is answered there.
 # DISCLAIMER
